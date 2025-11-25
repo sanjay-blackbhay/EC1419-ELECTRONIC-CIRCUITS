@@ -14,10 +14,12 @@
 
 
 ## Tabulation
+![WhatsApp Image 2025-11-25 at 23 10 53_dff7d4a8](https://github.com/user-attachments/assets/d12235c8-f82f-40da-b613-06b884d48964)
 
 ## Graph
+![WhatsApp Image 2025-11-25 at 23 10 46_164c70a7](https://github.com/user-attachments/assets/47a2613a-96ed-435c-b9ad-28ebdbe75d82)
 
-<img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
+![WhatsApp Image 2025-11-25 at 23 10 49_3ba9e1b1](https://github.com/user-attachments/assets/5e933637-a614-47bc-8d2c-c2a360af7a0a)
 
 Practical frequency of Oscillation =
 
